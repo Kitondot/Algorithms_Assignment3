@@ -10,7 +10,7 @@ Additionally, the project can generate visual PNG images of graphs with MST edge
 ---
 
 ## 📁 Project Structure
-
+```
 project_root/
 ├── src/
 │ ├── main/
@@ -37,7 +37,7 @@ project_root/
 │ └── benchmark.csv
 ├── pom.xml
 └── README.md
-
+```
 
 ---
 
