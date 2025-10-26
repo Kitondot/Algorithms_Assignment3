@@ -31,10 +31,6 @@ project_root/
 │ └── test/java/com/example/mst/
 │ ├── PrimMSTTest.java
 │ └── KruskalMSTTest.java
-├── output/
-│ ├── graph_1.png
-│ ├── graph_2.png
-│ └── benchmark.csv
 ├── pom.xml
 └── README.md
 ```
